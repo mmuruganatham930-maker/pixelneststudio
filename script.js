@@ -1,1 +1,1 @@
-console.log('Pixel Nest Studio loaded');
+// future animations
